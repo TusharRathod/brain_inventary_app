@@ -1,0 +1,40 @@
+.textRightContent_fifth {
+  font-size: 30px;
+  font-weight: 800;
+}
+.container_fifth {
+  margin: 45px 40px 0px 150px;
+}
+.subtitle_white {
+  color: white;
+  font-size: 12px;
+  font-weight: 600;
+  padding-top: 30px;
+  /* padding-bottom: 10px; */
+  letter-spacing: 1px;
+}
+.moreArticle {
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.white_bottom {
+  background-image: url(../../assests/white-shape.svg);
+  background-size: cover;
+  background-position: top;
+  width: 34%;
+  height: 32px;
+}
+.popular {
+  font-family: "Rock Salt";
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.timeDuretion {
+  color: white;
+  font-size: 12px;
+  font-weight: 600;
+  /* padding-top: 30px; */
+  padding-bottom: 10px;
+}

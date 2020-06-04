@@ -1,0 +1,52 @@
+.leftContainer {
+  margin: 45px 0px 0px 150px;
+}
+.yellow_six_bottom {
+  background-image: url(../../assests/heading-yellow.svg);
+  background-size: cover;
+  background-position: center;
+  width: 40%;
+  height: 19px;
+}
+.getInTouch_six {
+  font-family: "Rock Salt";
+  font-size: 16px;
+  /* text-align: center; */
+  font-weight: 800;
+}
+.form {
+  padding-top: 50px;
+}
+.textFeild {
+  padding: 20px 0px 20px 0px;
+}
+.submitBtn_six {
+  border: white;
+  height: 30px;
+  width: 120px;
+  font-weight: 600;
+  background-color: rgb(255, 185, 0);
+}
+.eventsDetail {
+  display: flex;
+  justify-content: space-between;
+}
+.date {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(255, 185, 0);
+}
+.discription {
+  font-size: 15px;
+  width: 55%;
+}
+.detail {
+  font-size: 14px;
+  color: rgb(255, 185, 0);
+  font-weight: 800;
+}
+.moreEvents {
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}

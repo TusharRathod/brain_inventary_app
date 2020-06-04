@@ -1,0 +1,10 @@
+.footerContain {
+  background-color: black;
+  display: flex;
+  color: white;
+}
+.para {
+  margin: 35px;
+  font-size: 10px;
+  letter-spacing: 2px;
+}

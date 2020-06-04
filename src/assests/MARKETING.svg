@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="236px" height="56px" viewBox="0 0 236 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>065D5EED-F73A-4553-A5ED-56017DCC27D4</title>
+    <defs>
+        <text id="text-1" font-family="Oswald-BoldItalic, Oswald" font-size="41" font-style="italic" font-weight="bold" letter-spacing="2.92857143" fill="#FFFFFF">
+            <tspan x="2.31424386" y="120">MARKETING</tspan>
+        </text>
+        <filter x="-7.9%" y="-27.7%" width="115.8%" height="162.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.473339161 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="1">
+        <g id="OUR-STORY" transform="translate(-135.000000, -256.000000)" fill="#FFFFFF">
+            <g id="Group-4-Copy" transform="translate(142.000000, 179.000000)">
+                <g id="Group">
+                    <g id="MARKETING">
+                        <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                        <use xlink:href="#text-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

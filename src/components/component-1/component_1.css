@@ -1,0 +1,28 @@
+.backgroundImg {
+  background-image: url(../../assests/podcast.png);
+  height: 620px;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+.content_on_img {
+  display: flex;
+  padding: 170px;
+}
+
+.yellow_label {
+  background-image: url(../../assests/heading-yellow.svg);
+  height: 32px;
+  background-size: cover;
+  background-position: top;
+  width: 29%;
+  margin: 44px;
+}
+
+.paragraph {
+  text-align: center;
+  font-family: "Rock Salt";
+  color: white;
+  font-size: 44px;
+  margin: -35px;
+}

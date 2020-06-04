@@ -1,0 +1,112 @@
+.hardDaysWontWin {
+  background-image: url(../../assests/story_img4.jpg);
+  height: 500px;
+  background-size: cover;
+  background-position: left;
+  width: 100%;
+}
+.getMotivated {
+  background-image: url(../../assests/bg3.png);
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+.textContent {
+  padding: 232px 0px 0px 0px;
+}
+.getMotivatedText {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+.getMotivatedHead {
+  color: #ffb900;
+  font-family: "Rock Salt";
+  font-size: 45px;
+  text-align: center;
+  margin-top: -45px;
+  font-weight: 600;
+}
+.readMoreButtton {
+  background-color: #ffb900;
+  border: white;
+  height: 35px;
+  font-weight: 600;
+  width: 125px;
+  color: #545451;
+}
+.butttonDiv {
+  text-align: center;
+  padding-top: 30px;
+}
+.hardDaysText {
+  color: white;
+  font-weight: bold;
+  font-size: 55px;
+  width: 30%;
+}
+/* 2 nd grid */
+
+.laughSmile {
+  background-image: url(../../assests/story5.JPG);
+  height: 500px;
+  background-size: cover;
+  /* background-position: center; */
+  width: 100%;
+}
+.laughSmileHead {
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+}
+.laughSmileSubtitle {
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.whatWeLove {
+  background-image: url(../../assests/story6.JPG);
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+.whatWeLoveText {
+  color: white;
+  font-size: 50px;
+  font-weight: 600;
+  width: 35%;
+}
+.whatWeLoveHead {
+  color: #ffb900;
+  font-family: "Rock Salt";
+  font-size: 45px;
+  margin-top: -45px;
+  font-weight: 600;
+}
+.textfeildText {
+  text-align: right;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 35px;
+}
+.textfeildDiv {
+  height: 100px;
+  background-color: #ffb900;
+}
+.btnSubscribe {
+  border: white;
+  height: 37px;
+  background-color: black;
+  color: #dad9d9;
+}
+.input {
+  border: white;
+  height: 35px;
+  width: 45%;
+}
